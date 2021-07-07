@@ -1,0 +1,23 @@
+programa
+
+  numero a, b, x, y, z;
+  texto  text;
+
+  leia(z);
+
+  v = 5;
+  b = 4;
+  x = a * 5 - b;
+  y = b / 2 + z;
+  
+
+  se ( x > y ) {
+     escreva (x);
+  }
+  senao {
+     escreva (y);
+  }
+  
+  
+
+fimprog;
